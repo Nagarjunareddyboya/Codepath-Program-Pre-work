@@ -6,7 +6,7 @@ Submitted by: **Nagarjuna Reddy Boya
 
 Time spent: 2 hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com/edit/#!/evening-granite-geese)
+Link to project: https://glitch.com/edit/#!/evening-granite-geese
 
 ## Required Functionality
 
@@ -84,7 +84,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://uflorida-my.sharepoint.com/:v:/g/personal/nagarjunare_boya_ufl_edu/EX0tfHYNrR1Nryjd1N2ShV0BKh4cwFOHN_sQcZeBw3slgg?e=sqEvLO)
 
 
 ## License
