@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
 
-Submitted by: **Nagarjuna Reddy Boya **
+Submitted by: Nagarjuna Reddy Boya 
 
 Time spent: 2 hours spent in total
 
@@ -89,7 +89,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright Nagarjuna Reddy Boya
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
